@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Kevin Aliaga
+# 👋 Olá! Eu sou o Davi Aliaga
 
 🎓 Estudante apaixonado por tecnologia e programação  
 💡 Sempre aprendendo algo novo na área de Desenvolvimento de Software  
