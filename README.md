@@ -1,14 +1,34 @@
 # 👋 Eu sou o Davi
 
+---
 
-<h3 align="left">Me siga:</h3>
+## 🛠️ Linguagens e Ferramentas
 <p align="left">
-<a href="https://github.com/kv-aliaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kv-aliaga" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kavhsao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavhsao" height="30" width="40" /></a>
-<a href="https://instagram.com/kavhsao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavhsao" height="30" width="40" /></a>
-<a href="https://twitter.com/kavhsao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavhsao" height="30" width="40" /></a>
-<a href="https://youtube.com/kavhsao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavhsao" height="30" width="40" /></a>
+  <span><img src="https://skillicons.dev/icons?i=bash" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=css" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=docker" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=figma" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=git" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=html" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=java" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=js" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=kotlin" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=linux" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=php" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=postgres" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=py" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></span>
+  <span><img src="https://skillicons.dev/icons?i=spring" width="40"/></span>
+  <span><img src="https://cdn.simpleicons.org/qlik" width="40"/></span>
+  <span><img src="https://cdn.simpleicons.org/apache" width="40"/></span>
+  <span><img src="https://cdn.simpleicons.org/snowflake" width="40"/></span>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+---
+
+## 📌 Sobre mim
+
+- 💼 Data Analyst na Swift
+- 🧠 Focado em BI, Backend, Dados e Engenharia de Software  
+- 🐧 Eu uso Linux
